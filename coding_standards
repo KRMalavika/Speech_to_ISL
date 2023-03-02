@@ -1,0 +1,8 @@
+Focus on readability:
+Allocate proper naming conventions.
+Write few lines as possible.
+Use indentation to mark the beginning and end of the control structures.
+Do not use a single identifier for multiple purposes.
+Leave comments and prioritize documentation.
+Avoid long lines.
+Do not use lengthy function.
