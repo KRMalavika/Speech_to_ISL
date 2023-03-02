@@ -1,0 +1,11 @@
+Step 1 − Declare and read the number of elements.
+
+Step 2 − Declare and read the array size at runtime.
+
+Step 3 − Input the array elements.
+
+Step 4 − Arrange numbers in descending order.
+
+Step 5 − find the second largest by choosing the second element in the sorted array.
+
+Step 6 − Print the second largest number.
